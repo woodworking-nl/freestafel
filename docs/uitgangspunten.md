@@ -24,7 +24,7 @@ Dan is er nog de keuze om het zo te maken dat je het aan je bestaande werkbank k
 - Suggestie: Een belangrijke zaak voor iedereen die een zware freesmotor in zijn lift zet bedenk dat 18 mm betonplex gaat doorhangen en als je zoals ik er een incra stofbak onder hebt hangen dan is dat lastig te verstevigen.
 - Suggestie: zou het nog zinnig zijn om in plaats van betonplex een plaatje hpl als toplaag te nemen?
 
-### Vlak
+### Vlak / vlakheid
 
 Rondom de freesplaat rechte latten schroeven om te zorgen dat het blad over de lengte en de breedte recht is.
 
