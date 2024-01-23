@@ -5,7 +5,7 @@ Zie het forum voor een introductie: [Een freestafeltje, het eerste project](http
 
 ## Doelstelling
 
-De grootste beperking met ons freestafeltje is het [uitgangspunt](/uitgangspunten) dat we de kleine Makita freesmotor gebruiken met de freeslift van Nachdenksport. Kozijnen en binnendeuren maken wordt daarmee een stuk lastiger, maar dat zijn vaak ook niet de werkstukken waar een hobbyhoutbewerker mee begint. We maken een freestafeltje voor kleinere werkstukken, een handvat voor de schaaf, speelgoed, kleine meubeltjes, kistjes, dat soort werk.
+De grootste beperking met ons freestafeltje is het [uitgangspunt](uitgangspunten.md) dat we de kleine Makita freesmotor gebruiken met de freeslift van Nachdenksport. Kozijnen en binnendeuren maken wordt daarmee een stuk lastiger, maar dat zijn vaak ook niet de werkstukken waar een hobbyhoutbewerker mee begint. We maken een freestafeltje voor kleinere werkstukken, een handvat voor de schaaf, speelgoed, kleine meubeltjes, kistjes, dat soort werk.
 Zoveel mogelijk zelf maken, omdat dat houtbewerker zijn en om de kosten te drukken. Dat zelf maken heeft ook als voordeel dat we wat meer zelfvertrouwen krijgen als het om het maken van gereedschap gaat. Het moet een freestafeltje worden waar iedereen plezier aan kan beleven en dat door de ingebouwde mogelijkheden zorgt dat je nauwkeurig freeswerk kunt gaan maken.
 
 ## Freeslift
