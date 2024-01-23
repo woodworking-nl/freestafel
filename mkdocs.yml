@@ -1,12 +1,32 @@
 site_name: Freestafel - woodworking.nl
 site_url: https://woodworking-nl.github.io/freestafel/
+extra_css:
+  - stylesheets/extra.css
+repo_url: https://github.com/woodworking-nl/freestafel
+repo_name: woodworking-nl/freestafel
+
+copyright: |
+  &copy; 2024 <a href="https://woodworking.nl" target="_blank" rel="noopener">woodworking.nl</a>
+
+nav:
+  - 'index.md'
+  - 'uitgangspunten.md'
+  - 'ontwerp.md'
+  - 'bouw.md'
+
 theme:
   name: material
+  logo: assets/woodworking-logo.png
+  favicon: assets/favicon.png
+  icon:
+    repo: fontawesome/brands/github
   features:
     - navigation.tabs
     - navigation.sections
     - toc.integrate
+    - toc.follow
     - navigation.top
+    # - navigation.indexes
     - search.suggest
     - search.highlight
     - content.tabs.link
@@ -18,8 +38,8 @@ theme:
       toggle:
         icon: material/toggle-switch-off-outline 
         name: Switch to dark mode
-      primary: teal
-      accent: purple 
+      primary: black
+      accent: custom 
     - scheme: slate 
       toggle:
         icon: material/toggle-switch
@@ -41,5 +61,3 @@ markdown_extensions:
   - pymdownx.mark
   - attr_list
 
-copyright: |
-  &copy; 2024 <a href="https://woodworking.nl" target="_blank" rel="noopener">woodworking.nl</a>
