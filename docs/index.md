@@ -10,7 +10,7 @@ Zoveel mogelijk zelf maken, omdat dat houtbewerker zijn en om de kosten te drukk
 
 ## Freeslift
 
-Op [Open Dag Hout](https://opendaghout.nl/) stond Simon van [Nachdenksport.de](https://nachdenksport.de). Hij maakt o.a. de Open Router Lift, een freeslift voor de kleine Makita freesmachine. Voor [woodworking.nl](woodworking.nl) wordt een exemplaar beschikbaar gesteld.
+Op [Open Dag Hout](https://opendaghout.nl/) stond Simon van [Nachdenksport.de](https://nachdenksport.de). Hij maakt o.a. de Open Router Lift, een freeslift voor de kleine Makita freesmachine. Voor [woodworking.nl](https://woodworking.nl){:target="_blank"} wordt een exemplaar beschikbaar gesteld.
 
 [OpenLift](https://openlift.nachdenksport.de/docs/)
 
