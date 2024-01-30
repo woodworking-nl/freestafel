@@ -2,9 +2,9 @@
 
 Via het [forum](https://woodworking.nl/threads/een-freestafeltje-het-eerste-project.39623/) wordt besproken welke wensen/eisen we stellen aan diverse onderdelen van de freeslift.
 
-Daar niet iedereen gezegend is met een enorme werkplaats is een relatief compact model handig. Een kleiner model voor de kleine werkplaats maar die dan ook op een soort van onderstel kan worden gemonteerd. Hierbij ben je dan vrij om te bepalen welke voor jou ruimte toepasbaar is.
+Omdat niet iedereen gezegend is met een enorme werkplaats is een relatief compact model handig. Een kleiner model voor de kleine werkplaats maar die dan ook op een soort van onderstel kan worden gemonteerd. Hierbij ben je dan vrij om te bepalen welke voor jou ruimte toepasbaar is.
 
-Dan is er nog de keuze om het zo te maken dat je het aan je bestaande werkbank kan vastmaken, of met een klein onderstel dat op een tafel kan, of helemaal met grote poten zodat het op de grond kan staan. Bij de laatste 2 versies kunnen we dan nog iets toevoegen als lades om frezen en aanverwanten op te bergen.
+Er is ook nog een keuze om het zo te maken dat je het aan je bestaande werkbank kan vastmaken, of met een klein onderstel dat op een tafel kan, of helemaal met grote poten zodat het op de grond kan staan. Bij de laatste 2 versies kunnen we dan nog iets toevoegen als lades om frezen en aanverwanten op te bergen.
 
 - Suggestie: Opbouw uit modules
 - Suggestie: Het is slechts een raamwerk dat je aan de bank bevestigt
